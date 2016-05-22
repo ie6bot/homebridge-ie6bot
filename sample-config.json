@@ -1,0 +1,19 @@
+{
+  "bridge": {
+    "name": "Homebridge",
+    "username": "IE:66:66:66:66:66",
+    "port": 66666,
+    "pin": "666-66-666"
+  },
+
+  "description": "for ie6bot",
+
+  "platforms": [],
+
+  "accessories": [
+    {
+      "accessory": "ie6bot",
+      "name": "ie6bot"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "homebridge-ie6bot",
+  "version": "6.0.0",
+  "description": "homebridge-plugin for ie6bot",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": {
+    "name": "ie6bot"
+  }
+}
