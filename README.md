@@ -2,7 +2,6 @@
 homebridge-plugin for ie6bot(http://ie6bot.kill.jp)  
 <img src="https://github.com/ie6bot/homebridge-ie6bot/blob/master/homebridge-ie6bot.gif?raw=true" width="480">
 
-
 # Installation
 1. Install homebridge using: npm install -g homebridge.
 2. Install `casperjs#1.1.1` and `phantomjs#2.1.1`
