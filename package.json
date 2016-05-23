@@ -3,6 +3,10 @@
   "version": "6.0.0",
   "description": "homebridge-plugin for ie6bot",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ie6bot/homebridge-ie6bot"
+  },
   "keywords": [
     "homebridge-plugin"
   ],
